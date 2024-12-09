@@ -1,0 +1,53 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# Auto-generated files
+*.pidb
+*.log
+*.scc
+*.cache
+*.config
+
+# Rider and Resharper
+.idea/
+*.DotSettings.user
+_ReSharper*/
+
+# Visual Studio Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Package directories
+**/packages/
+*.nuget/
+*.snupkg
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other
+*.vspscc
+*.vspcc
+*.pdb
